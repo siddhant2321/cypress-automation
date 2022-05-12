@@ -1,0 +1,22 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhant2321/cypress-automation.git"
+  },
+  "author": "siddhant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddhant2321/cypress-automation/issues"
+  },
+  "homepage": "https://github.com/siddhant2321/cypress-automation#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
